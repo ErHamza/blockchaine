@@ -22,8 +22,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/ErHamza/blockchaine.git
+    cd blockchaine
     ```
 
 2. **Install dependencies:**
@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 ## Configuration
 
 1. **Smart Contract:**
-    - Deploy the `VerifyDataIntegrity.sol` smart contract on the Ethereum blockchain.
+    - Deploy the `storage.sol` smart contract on the Ethereum blockchain.
     - Update the contract address in `App.js` under `connectWallet` function.
 
 2. **MetaMask:**
